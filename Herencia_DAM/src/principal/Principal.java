@@ -21,7 +21,7 @@ public class Principal {
 		Persona persona2 = new Persona(45, 75, "Persona2 con Constructor con paramentros");
 		Persona persona3 = new Persona(46, 73, "Persona3 con Constructor con paramentros");
 		System.out.println("------------FIN CREACION OB.PERSONAS-------------------------");
-		System.out.println("------------cambios git-------------------------");
+		System.out.println("------------CAMBIOS -------------------------");
 
 		// ----------------------------LISTAS Y METODOS-------------------------------------
 		// ---------------------------------------------------------------------------------
